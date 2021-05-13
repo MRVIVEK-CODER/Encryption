@@ -3,7 +3,6 @@
 ### [+] Disclaimer :
 ***Py Compile is a tool to Encrypt Python Scripts into an Unreadble Format.This tool converts Python Script to Base64,Marshal,Zlib Format.This Tool is created for Educational Purpose only.***
 
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/pycompile.png" alt="" border="0" />
 
 ### [+] Installation
 ```apt update```
@@ -25,5 +24,5 @@ apt update && apt install git -y && git clone https://github.com/MRVIVEK-CODER/E
 
 ## [+] Find Me on :
 [![Github](https://img.shields.io/badge/Github-MRVIVEK--CODER-green?style=for-the-badge&logo=github)](https://github.com/MRVIVEK-CODER)
-[![Instagram](https://img.shields.io/badge/IG-%40♨♨ VIVEK ♨♨-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hacker_solution_by_vivek)
+[![Instagram](https://img.shields.io/badge/IG-%40VIVEK--CHANDEL-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hacker_solution_by_vivek)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Vivek.chandel.420)
